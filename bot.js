@@ -70,7 +70,6 @@ client.on("message", message => {
     });
 	
 	
-    const invites = {};
 
 const wait = require('util').promisify(setTimeout);
 
